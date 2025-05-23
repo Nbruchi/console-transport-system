@@ -39,7 +39,6 @@ Makefile
 RwandaTransport
 
 # IDE specific files
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -57,3 +56,5 @@ Thumbs.db
 # Project specific
 data/*.txt
 !data/.gitkeep 
+config.bat
+node_modules
