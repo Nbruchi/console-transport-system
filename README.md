@@ -83,8 +83,8 @@ transport/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/rwanda-transport.git
-cd rwanda-transport
+git clone https://github.com/Nbruchi/console-transport-system.git
+cd console-transport-system
 ```
 
 2. Create and enter build directory:
@@ -132,21 +132,13 @@ The system maintains two primary data files:
 - `cities.txt`: Stores city records with indices and names
 - `roads.txt`: Contains road connections and their associated budgets
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Authors
 
-- Your Name - _Initial work_
+- Bruce NKUNDABAGENZI - _Initial work_
 
 ## 🙏 Acknowledgments
 
