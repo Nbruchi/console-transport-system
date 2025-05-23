@@ -11,6 +11,16 @@ A C++ console application for managing Rwanda's transport infrastructure, includ
 - Graph-based representation of roads and budgets
 - Data persistence using text files
 
+## System Flowcharts
+
+The system's functionality is documented in two flowcharts:
+
+1. **Summarized Flowchart** - Provides a high-level overview of the system's main operations
+   ![Summarized Flowchart](flowcharts/summarized-flowchart.png)
+
+2. **Detailed Flowchart** - Shows the detailed implementation flow of each operation
+   ![Detailed Flowchart](flowcharts/detailed-flowchart.png)
+
 ## Project Structure
 
 ```
@@ -31,6 +41,10 @@ transport/
 ├── data/               # Data files
 │   ├── cities.txt      # City records
 │   └── roads.txt       # Road records
+│
+├── flowcharts/         # System flowcharts
+│   ├── summarized-flowchart.png
+│   └── detailed-flowchart.png
 │
 └── CMakeLists.txt      # CMake build configuration
 ```
